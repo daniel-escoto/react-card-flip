@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/AaronCCWong/react-card-flip",
   "files": [
-    "lib/**/*"
+    "lib/*"
   ],
   "peerDependencies": {
     "react": "^17.0.1",
